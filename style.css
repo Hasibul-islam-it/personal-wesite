@@ -1,0 +1,117 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    width: 100%;
+    height: 70px;
+    background-color: white;
+}
+ul{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+}
+    li{
+        display: inline-block;
+        padding:15px 30px;
+    }
+    a{
+        text-align: center;
+        text-decoration: none;
+    }
+    h1{
+        font-size: 40px;
+    }
+    .top{
+        color: blue;
+    }
+    .top2{
+        color: orange;
+    }
+    .hello{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+    .hello img{
+        width: 100%;
+        padding-right: 5px;
+    }
+    .link-button{
+        text-decoration: none ;
+        background-color: orangered ;
+        padding: 10px 20px;
+        border-radius : 5px;
+        font-weight: 200px;
+        color: white;
+    }
+.project{
+    width: 20%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray ;
+    border-radius:15px 
+}
+.project img{
+    width: 100%;
+}
+section{
+    height: 300px;
+    padding-bottom: 400px;
+}
+.lastet{
+    text-align: center;
+}
+span{
+    color: orangered;
+}
+ .workleft{
+    padding-top: 30px;
+     float: left;
+     margin-left: 5%;
+     padding-left: 2%;
+ }
+ #workright{
+    margin-left: 232px;
+        margin-top: 70px;
+        text-transform: none;
+        padding: 16px 35px;
+        float: left;
+        height: auto;
+        font-size: 18px;
+        font-weight: 518px;
+        background-color: orangered ;
+            padding: 10px 20px;
+            border-radius : 7px;
+            font-weight: 200px;
+}   
+.inquiry{
+    background-image: url(images/Group_33094_1.png);
+    background-size:100%;
+    padding-left: 10px;
+    margin: 20%;
+    background-repeat: no-repeat;
+}
+#hireme{
+        
+}
+footer{
+    text-align:center;
+}
+.project2{
+    background-color:ghostwhite;
+}
+.image{
+    width: 100%;
+    height: 50%;
+    border-radius: 2px;
+}
+.b{
+    color: black;
+    text-align: center;
+
+}
